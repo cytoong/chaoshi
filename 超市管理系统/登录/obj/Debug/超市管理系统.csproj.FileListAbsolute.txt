@@ -1,0 +1,652 @@
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\obj\Debug\超市管理系统.add.resources
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\obj\Debug\超市管理系统.LoginForm.resources
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\obj\Debug\超市管理系统.MainForm.resources
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\obj\Debug\超市管理系统.SalerForm.resources
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\obj\Debug\超市管理系统.StaffForm.resources
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\obj\Debug\超市管理系统.VIPForm.resources
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\obj\Debug\登录.exe
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\bin\Debug\登录.exe.config
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\bin\Debug\登录.exe
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\bin\Debug\登录.pdb
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\bin\Debug\CSkin.dll
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\obj\Debug\登录.pdb
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+C:\Users\Administrator\Desktop\201617380426 李世豪 项目\登录\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1\登录\登录\bin\Debug\登录.exe.config
+C:\Users\Administrator\Desktop\1\登录\登录\obj\Debug\登录.exe
+C:\Users\Administrator\Desktop\1\登录\登录\obj\Debug\登录.pdb
+C:\Users\Administrator\Desktop\1\登录\登录\bin\Debug\登录.exe
+C:\Users\Administrator\Desktop\1\登录\登录\bin\Debug\登录.pdb
+C:\Users\Administrator\Desktop\1\登录\登录\bin\Debug\CSkin.dll
+C:\Users\Administrator\Desktop\1\登录\登录\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\1\登录\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1\登录\登录\obj\Debug\超市管理系统.add.resources
+C:\Users\Administrator\Desktop\1\登录\登录\obj\Debug\超市管理系统.LoginForm.resources
+C:\Users\Administrator\Desktop\1\登录\登录\obj\Debug\超市管理系统.MainForm.resources
+C:\Users\Administrator\Desktop\1\登录\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+C:\Users\Administrator\Desktop\1\登录\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+C:\Users\Administrator\Desktop\1\登录\登录\obj\Debug\超市管理系统.SalerForm.resources
+C:\Users\Administrator\Desktop\1\登录\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1\登录\登录\obj\Debug\超市管理系统.StaffForm.resources
+C:\Users\Administrator\Desktop\1\登录\登录\obj\Debug\超市管理系统.VIPForm.resources
+C:\Users\Administrator\Desktop\1\登录\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+C:\Users\Administrator\Desktop\1\登录\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\123\登录\登录\bin\Debug\登录.exe.config
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\登录.exe
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\登录.pdb
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\bin\Debug\登录.exe.config
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\登录.exe
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\登录.pdb
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\bin\Debug\登录.exe
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\bin\Debug\登录.pdb
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\超市管理系统.LoginForm.resources
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\超市管理系统.MainForm.resources
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\超市管理系统.SalerForm.resources
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\超市管理系统.StaffForm.resources
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\超市管理系统.VIPForm.resources
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\超市管理系统.Goodsadd.resources
+C:\Users\Administrator\Desktop\大一项目\卓越项目\123\登录\登录\obj\Debug\超市管理系统.VIPadd.resources
+C:\Users\Administrator\Desktop\123\登录\登录\bin\Debug\登录.exe
+C:\Users\Administrator\Desktop\123\登录\登录\bin\Debug\登录.pdb
+C:\Users\Administrator\Desktop\123\登录\登录\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\超市管理系统.Goodsadd.resources
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\超市管理系统.LoginForm.resources
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\超市管理系统.MainForm.resources
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\超市管理系统.SalerForm.resources
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\超市管理系统.StaffForm.resources
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\超市管理系统.VIPForm.resources
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\超市管理系统.VIPadd.resources
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+C:\Users\Administrator\Desktop\123\登录\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\123\123\登录\登录\bin\Debug\登录.exe.config
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\登录.exe
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\登录.pdb
+C:\Users\Administrator\Desktop\123\123\登录\登录\bin\Debug\登录.exe
+C:\Users\Administrator\Desktop\123\123\登录\登录\bin\Debug\登录.pdb
+C:\Users\Administrator\Desktop\123\123\登录\登录\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\超市管理系统.Goodsadd.resources
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\超市管理系统.LoginForm.resources
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\超市管理系统.MainForm.resources
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\超市管理系统.SalerForm.resources
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\超市管理系统.StaffForm.resources
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\超市管理系统.VIPForm.resources
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\超市管理系统.VIPadd.resources
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+C:\Users\Administrator\Desktop\123\123\登录\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+E:\123\123\123\登录\登录\bin\Debug\登录.exe.config
+E:\123\123\123\登录\登录\obj\Debug\登录.exe
+E:\123\123\123\登录\登录\obj\Debug\登录.pdb
+E:\123\123\123\登录\登录\bin\Debug\登录.exe
+E:\123\123\123\登录\登录\bin\Debug\登录.pdb
+E:\123\123\123\登录\登录\bin\Debug\CSkin.xml
+E:\123\123\123\登录\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+E:\123\123\123\登录\登录\obj\Debug\超市管理系统.Goodsadd.resources
+E:\123\123\123\登录\登录\obj\Debug\超市管理系统.LoginForm.resources
+E:\123\123\123\登录\登录\obj\Debug\超市管理系统.MainForm.resources
+E:\123\123\123\登录\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+E:\123\123\123\登录\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+E:\123\123\123\登录\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+E:\123\123\123\登录\登录\obj\Debug\超市管理系统.SalerForm.resources
+E:\123\123\123\登录\登录\obj\Debug\超市管理系统.StaffForm.resources
+E:\123\123\123\登录\登录\obj\Debug\超市管理系统.VIPForm.resources
+E:\123\123\123\登录\登录\obj\Debug\超市管理系统.VIPadd.resources
+E:\123\123\123\登录\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+E:\123\123\123\登录\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\bin\Debug\登录.exe.config
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\登录.exe
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\登录.pdb
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\bin\Debug\登录.exe
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\bin\Debug\登录.pdb
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\超市管理系统.Goodsadd.resources
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\超市管理系统.LoginForm.resources
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\超市管理系统.MainForm.resources
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\超市管理系统.SalerForm.resources
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\超市管理系统.StaffForm.resources
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\超市管理系统.VIPForm.resources
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\超市管理系统.VIPadd.resources
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+C:\Users\Administrator\Desktop\321\123\123\登录\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe.config
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.exe
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.pdb
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.pdb
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+C:\Users\Administrator\Desktop\大一项目\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe.config
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.exe
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.pdb
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.pdb
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+C:\Users\Administrator\Desktop\攻壳机动队\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe.config
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.exe
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.pdb
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.pdb
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\李世豪\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe.config
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.exe
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.pdb
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.pdb
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\CSkin.xml
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+D:\袁炼\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+E:\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe.config
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.exe
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.pdb
+E:\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe
+E:\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.pdb
+E:\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\CSkin.xml
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+E:\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe.config
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.exe
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.pdb
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.pdb
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\CSkin.xml
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+F:\优秀项目\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe.config
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.exe
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\CSkin.xml
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪 袁炼 杨婷 杨科\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe.config
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.exe
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\登录.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\CSkin.xml
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+D:\优秀卓越项目  李世豪\超市管理系统\登录\bin\Debug\登录.exe.config
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\登录.exe.config
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\登录.exe
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\登录.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\BLL.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\DAL.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\model.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\BLL.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\DAL.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\model.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\登录.exe
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\登录.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\登录.exe.config
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\登录.exe
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\登录.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\登录.exe
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\登录.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\BLL.dll
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\DAL.dll
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\model.dll
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\BLL.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\DAL.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\bin\Debug\model.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+D:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\登录.exe.config
+D:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\登录.exe
+D:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\登录.pdb
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\登录.exe.config
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\登录.exe
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\登录.pdb
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\登录.exe
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\登录.pdb
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\BLL.dll
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\DAL.dll
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\model.dll
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\BLL.pdb
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\DAL.pdb
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\model.pdb
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\登录.exe.config
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\登录.exe
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\登录.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\BLL.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\DAL.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\model.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\BLL.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\DAL.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\bin\Debug\model.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\登录.exe
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\登录\obj\Debug\登录.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.exe.config
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\登录.exe
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\登录.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.exe
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\bin\Debug\BLL.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\bin\Debug\DAL.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\bin\Debug\model.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\bin\Debug\BLL.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\bin\Debug\DAL.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\bin\Debug\model.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+D:\究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.exe.config
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\登录.exe
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\登录.pdb
+D:\究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.exe
+D:\究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.pdb
+D:\究极版超市管理系统\超市管理系统\登录\bin\Debug\BLL.dll
+D:\究极版超市管理系统\超市管理系统\登录\bin\Debug\DAL.dll
+D:\究极版超市管理系统\超市管理系统\登录\bin\Debug\model.dll
+D:\究极版超市管理系统\超市管理系统\登录\bin\Debug\BLL.pdb
+D:\究极版超市管理系统\超市管理系统\登录\bin\Debug\DAL.pdb
+D:\究极版超市管理系统\超市管理系统\登录\bin\Debug\model.pdb
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+D:\究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.exe.config
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.exe
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.pdb
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\BLL.dll
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\DAL.dll
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\model.dll
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\BLL.pdb
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\DAL.pdb
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\model.pdb
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csproj.CoreCompileInputs.cache
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\登录.exe
+D:\大三项目《超市管理系统》\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\登录.pdb
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.exe.config
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\登录.exe
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\登录.pdb
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.exe
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.pdb
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\BLL.dll
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\DAL.dll
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\model.dll
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\BLL.pdb
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\DAL.pdb
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\model.pdb
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.exe.config
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\登录.exe
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\登录.pdb
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.exe
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\登录.pdb
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\BLL.dll
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\DAL.dll
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\model.dll
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\BLL.pdb
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\DAL.pdb
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\bin\Debug\model.pdb
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+F:\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\登录.exe.config
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\登录.exe
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\登录.pdb
+F:\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\登录.exe
+F:\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\登录.pdb
+F:\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\BLL.dll
+F:\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\DAL.dll
+F:\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\model.dll
+F:\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\BLL.pdb
+F:\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\DAL.pdb
+F:\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\model.pdb
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+F:\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\登录.exe.config
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\登录.exe
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\登录.pdb
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\登录.exe
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\登录.pdb
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\BLL.dll
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\DAL.dll
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\model.dll
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\BLL.pdb
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\DAL.pdb
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\model.pdb
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.csprojResolveAssemblyReference.cache
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.Cache
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\登录.exe.config
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\登录.exe
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\登录.pdb
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\BLL.dll
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\DAL.dll
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\model.dll
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\BLL.pdb
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\DAL.pdb
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\model.pdb
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.csprojAssemblyReference.cache
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.cache
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.csproj.CoreCompileInputs.cache
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.csproj.CopyComplete
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\登录.exe
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\登录.pdb
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\登录.exe.config
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\登录.exe
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\登录.pdb
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\BLL.dll
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\DAL.dll
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\model.dll
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\BLL.pdb
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\DAL.pdb
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\bin\Debug\model.pdb
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.csprojAssemblyReference.cache
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.cache
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.csproj.CoreCompileInputs.cache
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\超市管理系统.csproj.CopyComplete
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\登录.exe
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\登录\obj\Debug\登录.pdb
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\bin\Debug\登录.exe.config
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\bin\Debug\登录.exe
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\bin\Debug\登录.pdb
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\bin\Debug\BLL.dll
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\bin\Debug\DAL.dll
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\bin\Debug\model.dll
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\bin\Debug\BLL.pdb
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\bin\Debug\DAL.pdb
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\bin\Debug\model.pdb
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csproj.AssemblyReference.cache
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.Goodsadd.resources
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.LoginForm.resources
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.MainForm.resources
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SaledetailsForm.resources
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SalemanAdd.resources
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.Properties.Resources.resources
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.SalerForm.resources
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.StaffForm.resources
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.TypeForm.resources
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.VIPForm.resources
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.VIPadd.resources
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.WarehouseForm.resources
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csproj.GenerateResource.cache
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csproj.CoreCompileInputs.cache
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\超市管理系统.csproj.CopyComplete
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\登录.exe
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\登录\obj\Debug\登录.pdb

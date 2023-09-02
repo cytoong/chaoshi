@@ -1,0 +1,104 @@
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\DAL\bin\Debug\DAL.dll
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\DAL\bin\Debug\DAL.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\DAL\bin\Debug\model.dll
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\DAL\bin\Debug\model.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\DAL\obj\Debug\DAL.dll
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪\超市管理系统\DAL\obj\Debug\DAL.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\DAL\bin\Debug\DAL.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\DAL\bin\Debug\DAL.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\DAL\bin\Debug\model.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\DAL\bin\Debug\model.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\DAL\obj\Debug\DAL.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-5-18-0\超市管理系统\DAL\obj\Debug\DAL.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\DAL\bin\Debug\DAL.dll
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\DAL\bin\Debug\DAL.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\DAL\bin\Debug\model.dll
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\DAL\bin\Debug\model.pdb
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\DAL\obj\Debug\DAL.dll
+C:\Users\Mstanford\Desktop\优秀卓越项目  李世豪-5-18-0\超市管理系统\DAL\obj\Debug\DAL.pdb
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\DAL\bin\Debug\DAL.dll
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\DAL\bin\Debug\DAL.pdb
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\DAL\bin\Debug\model.dll
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\DAL\bin\Debug\model.pdb
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\DAL\obj\Debug\DAL.dll
+E:\优秀卓越项目  李世豪-611\优秀卓越项目  李世豪-611\超市管理系统\DAL\obj\Debug\DAL.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\DAL\bin\Debug\DAL.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\DAL\bin\Debug\DAL.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\DAL\bin\Debug\model.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\DAL\bin\Debug\model.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\DAL\obj\Debug\DAL.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-611\超市管理系统\DAL\obj\Debug\DAL.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\DAL\bin\Debug\DAL.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\DAL\bin\Debug\DAL.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\DAL\bin\Debug\model.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\DAL\bin\Debug\model.pdb
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\DAL\obj\Debug\DAL.dll
+E:\大一文件\文件\李世豪\优秀卓越项目  李世豪-613\优秀卓越项目  李世豪-613\究极版超市管理系统\超市管理系统\DAL\obj\Debug\DAL.pdb
+D:\究极版超市管理系统\超市管理系统\DAL\bin\Debug\DAL.dll
+D:\究极版超市管理系统\超市管理系统\DAL\bin\Debug\DAL.pdb
+D:\究极版超市管理系统\超市管理系统\DAL\bin\Debug\model.dll
+D:\究极版超市管理系统\超市管理系统\DAL\bin\Debug\model.pdb
+D:\究极版超市管理系统\超市管理系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\究极版超市管理系统\超市管理系统\DAL\obj\Debug\DAL.dll
+D:\究极版超市管理系统\超市管理系统\DAL\obj\Debug\DAL.pdb
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\DAL\bin\Debug\DAL.dll
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\DAL\bin\Debug\DAL.pdb
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\DAL\bin\Debug\model.dll
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\DAL\bin\Debug\model.pdb
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\DAL\obj\Debug\DAL.dll
+E:\大三\毕业设计\最后的项目\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\DAL\obj\Debug\DAL.pdb
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\DAL\bin\Debug\DAL.dll
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\DAL\bin\Debug\DAL.pdb
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\DAL\bin\Debug\model.dll
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\DAL\bin\Debug\model.pdb
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\DAL\obj\Debug\DAL.dll
+H:\2018源码审核\8\超市进销存系统管理\究极版超市管理系统\超级究极版超市管理系统\超市管理系统\DAL\obj\Debug\DAL.pdb
+F:\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.dll
+F:\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.pdb
+F:\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\DAL.dll
+F:\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\DAL.pdb
+F:\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\model.dll
+F:\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\model.pdb
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\DAL.dll
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\DAL.pdb
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\model.dll
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\model.pdb
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.dll
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.pdb
+E:\MyWork\Projects\超市进销存系统管理源码\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\DAL.dll
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\DAL.pdb
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\model.dll
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\model.pdb
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.dll
+E:\源代码\进行中\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.pdb
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\DAL.dll
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\DAL.pdb
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\model.dll
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\DAL\bin\Debug\model.pdb
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.dll
+E:\源代码\可以使用的\超市进销存系统管理源码\超市管理系统\DAL\obj\Debug\DAL.pdb
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\DAL\bin\Debug\DAL.dll
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\DAL\bin\Debug\DAL.pdb
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\DAL\bin\Debug\model.dll
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\DAL\bin\Debug\model.pdb
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\DAL\obj\Debug\DAL.dll
+G:\微信源码计划\6-淘宝\2. Winform 超市进销存管理系统\超市管理系统\DAL\obj\Debug\DAL.pdb
